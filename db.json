@@ -3,9 +3,9 @@
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=com.",
       
-        "interid": "ca-app-pub-8166782938640486/4435309191",
-        "nativeid": "ca-app-pub-8166782938640486/3305519726",
-        
+        "interid": " ",
+        "nativeid": "ca-app-pub-8166782938640486/7519349444",
+        "openads":"ca-app-pub-8166782938640486/7388445361",
         "interval": 10,
         "pengaturan_iklan":"2",
         
@@ -17,11 +17,11 @@
         "inmobi_id":"1234567890qwerty0987654321qwerty12345",
         
         "startaap":"207231949",
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
+        "mopub_banner":"d752d4b8ae0043f7b17a9e5104c352f6",
+        "mopub_inter":"a84b2ddea61c4df6bb3efb168585486c",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
 
         }
     ],
